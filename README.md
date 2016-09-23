@@ -1,4 +1,4 @@
-# craftdemo
+# Craft Demo
 SBG Platform Service Craft Demonstration
 
 As part of enhancing the internal services of a company which are available to their employees, a Twitter like solution is proposed, where employees can tweet and have followers. 
