@@ -14,8 +14,8 @@ import org.springframework.stereotype.Service;
 
 import com.intuit.craftdemo.beans.Follower;
 import com.intuit.craftdemo.beans.Tweet;
-import com.intuit.craftdemo.reposiories.FollowerRepository;
-import com.intuit.craftdemo.reposiories.TweetRepository;
+import com.intuit.craftdemo.repositories.FollowerRepository;
+import com.intuit.craftdemo.repositories.TweetRepository;
 /**
  * Created by aditi on 21/09/16.
  * Service class for fetching or modifying data stored in mongo repositories related to tweets or posts

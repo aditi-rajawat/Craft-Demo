@@ -1,4 +1,4 @@
-package com.intuit.craftdemo.reposiories;
+package com.intuit.craftdemo.repositories;
 
 import java.util.ArrayList;
 import java.util.UUID;

@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.intuit.craftdemo.beans.Follower;
-import com.intuit.craftdemo.reposiories.FollowerRepository;
+import com.intuit.craftdemo.repositories.FollowerRepository;
 /**
  * Created by aditi on 21/09/16.
  * Custom service class implementing FollowerService
